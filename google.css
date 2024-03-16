@@ -1,0 +1,28 @@
+.google {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.btn{
+    text-align: center;
+    margin-left: 10px;
+}
+
+
+#mysearchbar {
+	width: 700px;
+	border-radius: 25px;
+	border-width: 1px;
+}
+
+input{
+	font-size: 15px ;
+	padding: 10px;
+	margin: 10px;
+}
+
+
+
+
+
+
